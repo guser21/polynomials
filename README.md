@@ -1,2 +1,2 @@
 # polynomials
-Handles arithmetics operations with multivariable polynomials and much more
+Handles arithmetic operations with multivariable polynomials and much more
